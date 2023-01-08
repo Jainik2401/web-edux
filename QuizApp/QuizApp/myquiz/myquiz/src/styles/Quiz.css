@@ -1,0 +1,35 @@
+:root{
+    --primary-color: #0DFF92;
+    --dark-color:#222222;
+    --light-color: #f0f0f0;
+  }
+
+body, html{
+    height: 100%;
+    background:var(--light-color);
+  }
+  
+
+.allQuiz{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.eachQuiz{
+    text-align: center;
+    padding: 1.7em 5em;
+    
+    
+}
+
+.sbtn{
+    padding: .2em 1.7em;
+    border: none;
+    border-radius: .1em;
+    font-size: 1.2em;
+    color: #202020;
+    text-decoration: none;
+    background-color: #faff5a;
+}
+
