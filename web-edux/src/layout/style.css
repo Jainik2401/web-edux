@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&display=swap");
+
+#home,
+#about,
+#course,
+#contact,
+#faq,
+#signup,
+#quiz,
+#follow,
+#copy {
+  /* background-image: url(/src/image/footerbg.jpg); */
+  padding-inline-start: 50px;
+  letter-spacing: 1px;
+  font-family: "Poppins", sans-serif;
+}
+
+.footer1 {
+  background-image: url(/src/image/footerbg.jpg);
+}

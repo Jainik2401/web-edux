@@ -1,0 +1,37 @@
+:root {
+  --primary-color: #0dff92;
+  --dark-color: #222222;
+  --light-color: #f0f0f0;
+}
+
+body,
+html {
+  height: 100%;
+  background: var(--light-color);
+}
+
+.allQuiz {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2em 5em;
+}
+
+.eachQuiz {
+  text-align: center;
+  padding: 2em 5em;
+}
+.eachQuiz:hover {
+  background-color: #354dbf;
+  color: white;
+}
+
+.sbtn {
+  padding: 0.2em 1.7em;
+  border: none;
+  border-radius: 0.1em;
+  font-size: 1.2em;
+  color: #202020;
+  text-decoration: none;
+  background-color: #faff5a;
+}

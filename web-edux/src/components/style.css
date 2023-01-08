@@ -1,0 +1,222 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  background-color: #d8dce8;
+}
+.banner {
+  margin-bottom: 30px;
+}
+.Recommended {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+.Recommended :hover {
+  color: black;
+}
+.ReCourses {
+  margin-bottom: 30px;
+}
+.player {
+  margin-bottom: 30px;
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+.vplayer {
+  margin-bottom: 30px;
+  background-color: #f0f0f0;
+}
+.choose {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+
+.who {
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+
+.who :hover {
+  color: black;
+}
+.choose :hover {
+  color: black;
+}
+
+.WhyUs {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+}
+.upcome {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+.upcome :hover {
+  color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+.abc {
+  margin: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 100px;
+}
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&family=Poppins:wght@300;400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Oxygen", sans-serif;
+}
+
+.home {
+  background-color: #d8dce8;
+}
+
+.hello {
+}
+.banner {
+  margin-bottom: 30px;
+}
+.box1 {
+  background-image: url(/src/image/bg101.jpg);
+}
+.Recommended {
+  margin: 50px;
+  text-align: center;
+  color: black;
+  background-image: url(/src/image/pattern1.png);
+  font-family: "Poppins", sans-serif;
+}
+.ReCourses {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+.player {
+  margin-bottom: 30px;
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+.vplayer {
+  margin-bottom: 30px;
+  background-color: #f0f0f0;
+}
+.choose {
+  margin: 50px;
+  background-image: url(/src/image/pattern1.png);
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+}
+
+.test {
+  margin: 50px;
+  background-image: url(/src/image/pattern1.png);
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+}
+
+.who {
+  text-align: center;
+  color: #354dbf;
+  text-decoration: underline;
+}
+
+.who :hover {
+  color: black;
+}
+.choose :hover {
+  color: black;
+}
+
+.WhyUs {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+.upcome {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #000000;
+  text-decoration: none;
+  background-image: url(/src/image/pattern1.png);
+  font-family: "Poppins", sans-serif;
+}
+.upcome :hover {
+  color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+.abc {
+  margin: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 100px;
+}
+
+.homeh1 {
+  font-family: "Oxygen", sans-serif;
+  font-size: 40px;
+  text-decoration: solid;
+  text-align: center;
+  color: #000000;
+  padding-left: 0px;
+  padding-top: 100px;
+}
+
+.box1 {
+  background-image: url(/src/image/banner101.jpg);
+}
+
+.boxdiv1 {
+  font-family: "Oxygen", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.boxdiv2 {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Oxygen";
+}
+
+/* About US CCS */
+.about1 {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.about2 {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  font-family: "Oxygen", sans-serif;
+}
+
+#myimg {
+  size: 10px;
+}
